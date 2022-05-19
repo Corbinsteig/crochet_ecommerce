@@ -33,3 +33,14 @@ button:hover{
 button:active{
   color: pink;
 }
+
+#cart_home {
+  margin-left: auto;
+  margin-top: auto;
+  display: inline-block;
+  position: top;
+}
+.navCart {
+  float: right;
+  padding-top: 90px;
+}
