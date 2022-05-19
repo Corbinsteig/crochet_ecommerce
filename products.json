@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Peep",
+        "id": "peep_crochet",
+        "description": "Soft peep with different color options!",
+        "price": "25.00",
+        "image": "/images/image0.jpg" 
+    },
+    {
+        "title": "Bee",
+        "id": "bee_crochet",
+        "description": "BUZZ BUZZ, bee crochet with different color options!",
+        "price": "15.00",
+        "image": "/images/image1.jpg" 
+    }
+]
