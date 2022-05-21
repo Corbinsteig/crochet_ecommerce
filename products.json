@@ -12,5 +12,19 @@
         "description": "BUZZ BUZZ, bee crochet with different color options!",
         "price": "15.00",
         "image": "/images/image1.jpg" 
+    },
+    {
+        "title": "Strawberry",
+        "id": "straw_crochet",
+        "description": "Strawberry crochet with different color options!",
+        "price": "15.00",
+        "image": "/images/image2.jpg" 
+    },
+    {
+        "title": "Bee",
+        "id": "bee_crochet",
+        "description": "BUZZ BUZZ, bee crochet with different color options!",
+        "price": "15.00",
+        "image": "/images/image1.jpg" 
     }
 ]

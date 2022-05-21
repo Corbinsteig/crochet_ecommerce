@@ -33,14 +33,10 @@ button:hover{
 button:active{
   color: pink;
 }
-
-#cart_home {
-  margin-left: auto;
-  margin-top: auto;
-  display: inline-block;
-  position: top;
+.snipcart-cart-header .snipcart-modal__close-icon, .snipcart-cart-header__icon {
+  color:pink !important;
 }
-.navCart {
-  float: right;
-  padding-top: 90px;
+
+.snipcart-button-secondary {
+  color:pink !important;
 }
