@@ -4,8 +4,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  color: pink;
-  
+  color: #FFED03 !important;
+  background-color: #64a5f0 !important; 
 }
 
 a {
@@ -15,28 +15,105 @@ a {
 
 * {
   box-sizing: border-box;
+  
 }
 img {
   max-width: 100%;
 }
 
 button{
-  color: pink;
-  background: rgb(248, 247, 247);
+  color: #FFED03;
+  background: #0070f3;
 }
 
 button:hover{
-  color: #0070f3;
-  background: white;
+  color: #FFED03;
+  background: #64a5f0;
   cursor: pointer;
 }
 button:active{
-  color: pink;
+  color: #FFED03;
 }
 .snipcart-cart-header .snipcart-modal__close-icon, .snipcart-cart-header__icon {
-  color:pink !important;
+  color:#FFED03 !important;
 }
 
 .snipcart-button-secondary {
-  color:pink !important;
+  color: #FFED03 !important;
+}
+
+.Logoidea {
+  background-image: url(../public/images/logoidea.png);
+}
+
+.snipcart-modal {
+  background-color: #64a5f0;
+  color: #FFED03;
+}
+
+.snipcart-item-line {
+  background-color: #0070f3;
+  color:#FFED03
+}
+
+.snipcart-item-quantity__label {
+  color:#FFED03
+}
+
+.snipcart-cart__content{
+  background-color: #0079;
+  color: #FFED03;
+}
+
+.snipcart-cart__content{
+  color: #FFED03;
+}
+.snipcart-summary-fees{
+  color:#FFED03
+}
+
+.snipcart-cart-header{
+  background-color: #0070f3;
+}
+
+.snipcart-modal__close{
+  color: #FFED03;
+}
+
+.snipcart-item-quantity__quantity{
+  color: #FFED03 !important;
+  background-color:#64a5f0 !important;
+}
+
+.snipcart-button-icon.is-secondary{
+  color: #0070f3;
+  background: #FFED03;
+}
+
+.snipcart-button-primary{
+  color: #FFED03;
+  background-color: #64a5f0;
+  
+}
+.snipcart-summary-fees__amount {
+  text-align: center;
+}
+.snipcart-base-button{
+  width: 90%;
+}
+
+.snipcart-featured-payment-methods__title{
+  background-color: #64a5f0;
+}
+
+.snipcart-button-icon.is-danger{
+  color: #FFED03;
+  background-color: #64a5f0;
+}
+
+.snipcart-empty-cart{
+  color: #FFED03;
+}
+.snipcart-button-secondary{
+  background-color: #0070f3;
 }
